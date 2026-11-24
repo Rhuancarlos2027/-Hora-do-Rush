@@ -1,0 +1,6 @@
+{
+  "name": "Hora do Rush — Quebra-Cabeça Lógico",
+  "description": "Jogo educativo de lógica e pensamento computacional onde você desliza veículos coloridos para liberar a saída do carro vermelho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
